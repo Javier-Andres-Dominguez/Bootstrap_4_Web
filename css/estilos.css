@@ -1,0 +1,47 @@
+html,body {
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    overflow: hidden;
+}
+.content{
+    overflow: auto;
+}
+.hero{
+    background-color: coral;
+}
+.navbar a:hover{
+    background-color: rgb(177, 177, 177);
+}
+.navbar-brand{
+    background-color: rgb(201, 201, 201);
+}
+.nav-item{
+    background-color: rgb(201, 201, 201);
+}
+.pedidorojo{
+    width: 50%;
+    height: 75%;
+}
+.pedidoverde{
+    width: 50%;
+    height: 75%;
+}
+.nav-link {
+    color: black;
+}
+a a:hover{
+    color: white;
+}
+.mapa {
+    width:100%;height:100%;
+}
+.footer {
+    background-color: rgb(53, 53, 53);
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px; /* Set the fixed height of the footer here */
+}
+/* https://www.pexels.com/ */
